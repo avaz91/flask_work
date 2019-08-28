@@ -1,0 +1,231 @@
+@media (min-width:567px) and (max-width: 1023px) {
+    body {
+        background-image: url("/static/images/webpage_yazisiz.jpg");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    .col-10 {
+        position: absolute !important;
+        bottom: 0 !important;
+        right: 0 !important;
+        font-family: "MyFont";
+        width: 100px !important;
+        height: 100px !important;
+        margin: 5px !important;
+        padding-left: 0;
+    }
+    a {
+        color: white !important;
+    }
+    .col-12 a {
+        margin: 3px;
+    }
+}
+
+@media(min-width: 1023px) and (max-width:1366px) {
+    body {
+        background-image: url("/static/images/123.jpg");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    .col-10 {
+        position: absolute !important;
+        bottom: 0 !important;
+        right: 0 !important;
+        font-family: "MyFont";
+        width: 100px !important;
+        height: 100px !important;
+        margin: 5px !important;
+        padding-left: 0;
+    }
+    a {
+        color: white !important;
+    }
+    .col-12 a {
+        margin: 3px;
+    }
+}
+
+@media (min-width:320px) and (max-width: 430px) {
+    body {
+        background-image: url("/static/images/webpage_mobile_yazisiz.jpg");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    .col-10 {
+        position: absolute !important;
+        bottom: 0 !important;
+        right: 0 !important;
+        font-family: "MyFont";
+        width: 100px !important;
+        height: 100px !important;
+        margin: 5px !important;
+        padding-left: 0;
+    }
+    a {
+        color: white !important;
+    }
+    .col-12 a {
+        margin: 3px;
+    }
+}
+
+@media (width:768px) and (height:1024px) {
+    body {
+        background-image: url("/static/images/webpage_mobile_yazisiz.jpg");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    .col-10 {
+        position: absolute !important;
+        bottom: 0 !important;
+        right: 0 !important;
+        font-family: "MyFont";
+        width: 100px !important;
+        height: 100px !important;
+        margin: 5px !important;
+        padding-left: 0;
+    }
+    a {
+        color: white !important;
+    }
+    .col-12 a {
+        margin: 3px;
+    }
+}
+
+@media (width:768px) and (height:848px) {
+    body {
+        background-image: url("/static/images/webpage_mobile_yazisiz.jpg");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    .col-10 {
+        position: absolute !important;
+        bottom: 0 !important;
+        right: 0 !important;
+        font-family: "MyFont";
+        width: 100px !important;
+        height: 100px !important;
+        margin: 5px !important;
+        padding-left: 0;
+    }
+    a {
+        color: white !important;
+    }
+    .col-12 a {
+        margin: 3px;
+    }
+}
+
+@media (width:1024px) and (height:1366px) {
+    body {
+        background-image: url("/static/images/webpage_mobile_yazisiz.jpg");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    .col-10 {
+        position: absolute !important;
+        bottom: 10 !important;
+        right: 10 !important;
+        font-family: "MyFont";
+        width: 0px !important;
+        height: 0px !important;
+        margin: 5px !important;
+        padding-left: 0;
+    }
+    a {
+        color: white !important;
+    }
+    .col-12 a {
+        margin: 3px;
+    }
+}
+
+@media (min-width:1025px) and (max-width:1365px) {
+    body {
+        background-image: url("/static/images/webpage_yazisiz.jpg");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    .col-10 {
+        position: absolute !important;
+        bottom: 10 !important;
+        right: 10 !important;
+        font-family: "MyFont";
+        width: 0px !important;
+        height: 0px !important;
+        margin: 5px !important;
+        padding-left: 0;
+    }
+    a {
+        color: white !important;
+    }
+    .col-12 a {
+        margin: 3px;
+    }
+}
+
+@media (min-width:1367px) and (max-width:30000px) {
+    body {
+        background-image: url("/static/images/webpage_yazisiz.jpg");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    .col-10 {
+        position: absolute !important;
+        bottom: 10 !important;
+        right: 10 !important;
+        font-family: "MyFont";
+        width: 0px !important;
+        height: 0px !important;
+        margin: 5px !important;
+        padding-left: 0;
+    }
+    a {
+        color: white !important;
+    }
+    .col-12 a {
+        margin: 3px;
+    }
+}
+
+@font-face {
+    font-family: 'MyFont';
+    src: url('/static/TCB_____.TTF') format('TTF');
+}
+
+.col-10 {
+    position: absolute !important;
+    bottom: 0 !important;
+    right: 0 !important;
+    font-family: 'MyFont';
+    width: 300px !important;
+    height: 100px !important;
+    margin: 5px !important;
+    padding-left: 0;
+}
+
+a {
+    color: white !important;
+}
+
+.col-12 a {
+    margin: 3px;
+}
